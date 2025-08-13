@@ -6,8 +6,8 @@ The entire portfolio is managed through a secure, integrated admin panel powered
 
 **Live Demo:** [Link to your deployed portfolio]
 
-![Portfolio Screenshot](https://i.imgur.com/your-screenshot.png)
-*(Replace this with a screenshot of your deployed portfolio)*
+# Portfolio Screenshot
+![Portfolio Screenshot](https://github.com/vivekchudasama-2004/My-Portfolio/blob/main/src/image/img.png)
 
 ---
 
