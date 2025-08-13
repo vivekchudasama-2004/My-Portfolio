@@ -30,7 +30,7 @@ try {
 const initialData = {
     profile: {
         name: "Vivek Chudasama",
-        title: "AI/ML, Python & Web Developer",
+        title: "Python & Web Developer",
         avatarUrl: "https://avatars.githubusercontent.com/u/109827618?v=4",
         bio: "Highly motivated Final-year IT engineering student with an enthusiastic about Web development and emerging technologies like machine learning. Seeking opportunities to apply and further develop my skills in a dynamic environment."
     },
@@ -43,9 +43,7 @@ const initialData = {
         { id: "1", date: "Jan 2025 – Apr 2025", title: "Internship", company: "TSS Consultancy Pvt Ltd", description: "Worked on a data extractor project aimed at streamlining database operations. Designed a system to extract, verify, and map data, enhancing skills in data management, accuracy verification, and database optimization." },
     ],
     education: [
-        { id: "1", date: "2022 - 2026", title: "Bachelor of Technology in Information Technology", institution: "Marwadi University (NAAC A+)", description: "CGPA: 8.47" },
-        { id: "2", date: "2021 - 2022", title: "Higher Secondary", institution: "New Era School, Rajkot", description: "Percentage: 54%" },
-        { id: "3", date: "2019 - 2020", title: "Matriculation", institution: "New Era School, Rajkot", description: "Percentage: 68.16%" },
+        { id: "1", date: "2022 - 2026", title: "Bachelor of Technology in Information Technology", institution: "Marwadi University (NAAC A+)", description: "CGPA: 8.47" }
     ]
 };
 
